@@ -1,3 +1,41 @@
 # Project Documentation
 
-This folder contains the complete project report, user documentation, and technical documentation.
+## Project Title
+
+Voice-Based Concept Understanding Analyzer (VBCUA)
+
+## Description
+
+The Voice-Based Concept Understanding Analyzer is an AI-powered educational application that evaluates students' conceptual understanding from spoken explanations. It converts speech into text, compares it with reference answers using semantic similarity analysis, generates scores, provides feedback, and creates downloadable PDF reports.
+
+## Technologies Used
+
+- Python
+- Streamlit
+- OpenAI Whisper
+- Sentence Transformers
+- ReportLab
+- Librosa
+
+## Documentation Included
+
+- Brainstorming & Ideation
+- Requirement Analysis
+- Project Design
+- Project Planning
+- Project Development
+- Project Testing
+- Project Demonstration
+
+## Future Enhancements
+
+- Multi-language support
+- Real-time microphone input
+- Student dashboard
+- Database integration
+- Cloud deployment
+- User authentication
+
+## Conclusion
+
+The project successfully demonstrates how Artificial Intelligence can automate concept evaluation using speech recognition and semantic similarity analysis, making educational assessment faster, smarter, and more reliable.
