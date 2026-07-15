@@ -38,7 +38,7 @@ The application performs the following tasks:
 
 **Demo Video Link:**
 
-_To be updated after uploading the demonstration video._
+https://drive.google.com/file/d/1KAR0TlyP-UHTz-0sy8IsoBQs8QG-Sn80/view?usp=sharing
 
 ---
 
