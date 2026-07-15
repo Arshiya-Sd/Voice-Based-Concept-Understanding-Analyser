@@ -1,3 +1,36 @@
 # Project Testing
 
-This folder contains the testing strategy, test cases, test results, and validation reports.
+## Testing Objectives
+
+The application was tested to ensure that each module works correctly and provides accurate results.
+
+## Test Cases
+
+### Test Case 1: Audio Upload
+- Input: Valid WAV/MP3/M4A file
+- Expected Result: File uploaded successfully
+- Status: Passed
+
+### Test Case 2: Speech Transcription
+- Input: Recorded speech
+- Expected Result: Accurate text transcription
+- Status: Passed
+
+### Test Case 3: Semantic Analysis
+- Input: Student answer and reference answer
+- Expected Result: Similarity score generated
+- Status: Passed
+
+### Test Case 4: Concept Scoring
+- Input: Similarity score
+- Expected Result: Grade and feedback generated
+- Status: Passed
+
+### Test Case 5: PDF Generation
+- Input: Final assessment result
+- Expected Result: Downloadable PDF report
+- Status: Passed
+
+## Overall Result
+
+All modules were tested successfully and the application performed as expected.
